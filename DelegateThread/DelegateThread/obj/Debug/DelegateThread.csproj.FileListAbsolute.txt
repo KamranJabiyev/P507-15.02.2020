@@ -1,0 +1,6 @@
+E:\project\P507\DelegateThread\DelegateThread\bin\Debug\DelegateThread.exe.config
+E:\project\P507\DelegateThread\DelegateThread\bin\Debug\DelegateThread.exe
+E:\project\P507\DelegateThread\DelegateThread\bin\Debug\DelegateThread.pdb
+E:\project\P507\DelegateThread\DelegateThread\obj\Debug\DelegateThread.csprojAssemblyReference.cache
+E:\project\P507\DelegateThread\DelegateThread\obj\Debug\DelegateThread.exe
+E:\project\P507\DelegateThread\DelegateThread\obj\Debug\DelegateThread.pdb
